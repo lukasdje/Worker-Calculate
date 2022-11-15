@@ -1,0 +1,15 @@
+C:\Users\Lucas Siqueira\Documents\Projects\EnumsProjects\EnumsProjects\bin\Debug\net7.0\EnumsProjects.exe
+C:\Users\Lucas Siqueira\Documents\Projects\EnumsProjects\EnumsProjects\bin\Debug\net7.0\EnumsProjects.deps.json
+C:\Users\Lucas Siqueira\Documents\Projects\EnumsProjects\EnumsProjects\bin\Debug\net7.0\EnumsProjects.runtimeconfig.json
+C:\Users\Lucas Siqueira\Documents\Projects\EnumsProjects\EnumsProjects\bin\Debug\net7.0\EnumsProjects.dll
+C:\Users\Lucas Siqueira\Documents\Projects\EnumsProjects\EnumsProjects\bin\Debug\net7.0\EnumsProjects.pdb
+C:\Users\Lucas Siqueira\Documents\Projects\EnumsProjects\EnumsProjects\obj\Debug\net7.0\EnumsProjects.csproj.AssemblyReference.cache
+C:\Users\Lucas Siqueira\Documents\Projects\EnumsProjects\EnumsProjects\obj\Debug\net7.0\EnumsProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Siqueira\Documents\Projects\EnumsProjects\EnumsProjects\obj\Debug\net7.0\EnumsProjects.AssemblyInfoInputs.cache
+C:\Users\Lucas Siqueira\Documents\Projects\EnumsProjects\EnumsProjects\obj\Debug\net7.0\EnumsProjects.AssemblyInfo.cs
+C:\Users\Lucas Siqueira\Documents\Projects\EnumsProjects\EnumsProjects\obj\Debug\net7.0\EnumsProjects.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Siqueira\Documents\Projects\EnumsProjects\EnumsProjects\obj\Debug\net7.0\EnumsProjects.dll
+C:\Users\Lucas Siqueira\Documents\Projects\EnumsProjects\EnumsProjects\obj\Debug\net7.0\refint\EnumsProjects.dll
+C:\Users\Lucas Siqueira\Documents\Projects\EnumsProjects\EnumsProjects\obj\Debug\net7.0\EnumsProjects.pdb
+C:\Users\Lucas Siqueira\Documents\Projects\EnumsProjects\EnumsProjects\obj\Debug\net7.0\EnumsProjects.genruntimeconfig.cache
+C:\Users\Lucas Siqueira\Documents\Projects\EnumsProjects\EnumsProjects\obj\Debug\net7.0\ref\EnumsProjects.dll
